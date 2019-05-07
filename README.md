@@ -1,4 +1,4 @@
-# ClTwitter Backed
+# Sinapis Backed
 
 This project was created with Node and TypeScript.
 
@@ -6,5 +6,13 @@ This project was created with Node and TypeScript.
 
 npm install
 npm start
+
+## API
+
+```
+request : GET
+params : { number1 , number2 }
+result : { result }
+```
 
 ## Build
